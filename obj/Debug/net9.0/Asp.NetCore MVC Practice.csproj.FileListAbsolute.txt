@@ -230,3 +230,4 @@ C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practic
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\Asp.NetCore MVC Practice.csproj.AssemblyReference.cache
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\Asp.NetC.27E18AAB.Up2Date
+C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\Asp.NetCore MVC Practice.sourcelink.json

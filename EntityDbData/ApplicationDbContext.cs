@@ -14,7 +14,7 @@ namespace Asp.NetCore_MVC_Practice.EntityDbData
         public DbSet<Login> Account { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
+        {   
             modelBuilder.Entity<DbTable>().HasData(
                 new DbTable { Id = 1, Name = "Joshua", age = 19, Lastname = "Escarez" },
                 new DbTable { Id = 2, Name = "Josh", age = 20, Lastname = "Manalo" },

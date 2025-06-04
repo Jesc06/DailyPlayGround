@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Asp.NetCore MVC Practice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fc658eb1c8d369d9fb43a0d2527ead8bec07a79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e9d0e49a86577381eed4609d71f64f5a1b4bedd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Asp.NetCore MVC Practice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Asp.NetCore MVC Practice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
