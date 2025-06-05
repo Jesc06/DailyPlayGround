@@ -1,0 +1,39 @@
+﻿@model DbTable
+
+
+<form method="post">
+
+	<div class="border p-3 mt-4">
+		<div class="row pb-2">
+			<h2 class="text-primary">Student Info</h2>
+		</div>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Name">Name</label>
+		<input asp-for="Name" class="form-control"/>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Name">Lastname</label>
+		<input asp-for="Lastname" class="form-control" />
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Name">Age</label>
+		<input asp-for="age" class="form-control" />
+	</div>
+	
+    <div class="row">
+		
+	<div class="col-6">
+	<button type="submit" class="btn btn-primary form-control">Add Student</button>
+    </div>
+
+	<div class="col-6">
+	<a asp-controller="StudentInfo" asp-action="index" class="btn btn-end form-control">Back</a>
+	</div>
+
+	</div>
+
+</form>

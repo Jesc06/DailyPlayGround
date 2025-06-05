@@ -16,5 +16,20 @@ namespace Asp.NetCore_MVC_Practice.Controllers
             List<Models.DbTable> studentInfoList = _db.StudentInfo.ToList();
             return View(studentInfoList);
         }
+
+        public IActionResult AddRecord()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult AddRecord(Models.DbTable obj)
+        {
+            _db.StudentInfo.Add(obj);
+            _db.SaveChanges();
+            return View();
+        }
+
+
     }
 }

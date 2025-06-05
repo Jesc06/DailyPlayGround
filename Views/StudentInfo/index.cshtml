@@ -3,15 +3,21 @@
 }
 @model List<DbTable>
 
-<h1>Student Info</h1>
 
-<table class="table  table-bordered table-striped">
-	<thead>
+<div class="container">
+
+	<div class="row pt-4">
+		<div class="col-6"><h1 class="text-primary">Student List</h1></div>
+		<div class="col-6 text-end"><a asp-controller="StudentInfo" asp-action="AddRecord" class="btn btn-primary">Add record</a></div>
+	</div>
+
+<table class="table">
+	<thead class="thead-dark">
 		<tr>
-			<th>Id</th>
-			<th>Name</th>
-			<th>Lastname</th>
-			<th>age</th>
+			<th scope="col">Id</th>
+			<th scope="col">Name</th>
+			<th scope="col">Lastname</th>
+			<th scope="col">age</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -25,3 +31,5 @@
 		}
 	</tbody>
 </table>
+
+</div>
