@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m1EusDhB1iE98Vxg2V2Qgv6LldwSsZ8thSSJ1nn7V0c=",
+  "Hash": "IpNVComXsVbeEedsgHmODH2Yb8X5gt4eV8DYrLpuJyI=",
   "Source": "Asp.NetCore MVC Practice",
   "BasePath": "_content/Asp.NetCore MVC Practice",
   "Mode": "Default",
@@ -500,12 +500,12 @@
       "OriginalItemSpec": "C:\\Users\\escar\\OneDrive\\Desktop\\Asp.NetCore MVC Practice\\Asp.NetCore MVC Practice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\escar\\OneDrive\\Desktop\\Asp.NetCore MVC Practice\\Asp.NetCore MVC Practice\\obj\\Debug\\net9.0\\compressed\\adqg9cad59-mdavj9kyif.gz",
+      "Identity": "C:\\Users\\escar\\OneDrive\\Desktop\\Asp.NetCore MVC Practice\\Asp.NetCore MVC Practice\\obj\\Debug\\net9.0\\compressed\\adqg9cad59-ob4d9vnjw4.gz",
       "SourceId": "Asp.NetCore MVC Practice",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\escar\\OneDrive\\Desktop\\Asp.NetCore MVC Practice\\Asp.NetCore MVC Practice\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Asp.NetCore MVC Practice",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint=mdavj9kyif}]?.css.gz",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint=ob4d9vnjw4}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -514,8 +514,8 @@
       "RelatedAsset": "C:\\Users\\escar\\OneDrive\\Desktop\\Asp.NetCore MVC Practice\\Asp.NetCore MVC Practice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "akma2p0igz",
-      "Integrity": "RqleVCwZkRv118LAyyH6barHn30BSui8nR2AF5vTkMk=",
+      "Fingerprint": "val0axnqkx",
+      "Integrity": "KTYLSV7pZDWRDLILfjox3vvAdfyPlEqSY5lcahYLJ/8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\escar\\OneDrive\\Desktop\\Asp.NetCore MVC Practice\\Asp.NetCore MVC Practice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
@@ -1480,8 +1480,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mdavj9kyif",
-      "Integrity": "tkKDDpzREQ3ujZfhsqw4utglS34XO81JaFj7gIo/j6U=",
+      "Fingerprint": "ob4d9vnjw4",
+      "Integrity": "JAwTcB0BQQAa+K0zE33nn81jrOn09Dn4pCce+NjnGcU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
@@ -4219,12 +4219,12 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\escar\\OneDrive\\Desktop\\Asp.NetCore MVC Practice\\Asp.NetCore MVC Practice\\obj\\Debug\\net9.0\\compressed\\adqg9cad59-mdavj9kyif.gz",
+      "AssetFile": "C:\\Users\\escar\\OneDrive\\Desktop\\Asp.NetCore MVC Practice\\Asp.NetCore MVC Practice\\obj\\Debug\\net9.0\\compressed\\adqg9cad59-ob4d9vnjw4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000027805583"
+          "Quality": "0.000027392007"
         }
       ],
       "ResponseHeaders": [
@@ -4234,15 +4234,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "35963"
+          "Value": "36506"
         },
         {
           "Name": "ETag",
-          "Value": "\"RqleVCwZkRv118LAyyH6barHn30BSui8nR2AF5vTkMk=\""
+          "Value": "\"KTYLSV7pZDWRDLILfjox3vvAdfyPlEqSY5lcahYLJ/8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 06:26:39 GMT"
+          "Value": "Thu, 05 Jun 2025 02:10:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4262,13 +4262,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"tkKDDpzREQ3ujZfhsqw4utglS34XO81JaFj7gIo/j6U=\""
+          "Value": "W/\"JAwTcB0BQQAa+K0zE33nn81jrOn09Dn4pCce+NjnGcU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tkKDDpzREQ3ujZfhsqw4utglS34XO81JaFj7gIo/j6U="
+          "Value": "sha256-JAwTcB0BQQAa+K0zE33nn81jrOn09Dn4pCce+NjnGcU="
         }
       ]
     },
@@ -4283,7 +4283,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "309773"
+          "Value": "323434"
         },
         {
           "Name": "Content-Type",
@@ -4291,11 +4291,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tkKDDpzREQ3ujZfhsqw4utglS34XO81JaFj7gIo/j6U=\""
+          "Value": "\"JAwTcB0BQQAa+K0zE33nn81jrOn09Dn4pCce+NjnGcU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 06:26:39 GMT"
+          "Value": "Thu, 05 Jun 2025 02:10:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4305,13 +4305,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tkKDDpzREQ3ujZfhsqw4utglS34XO81JaFj7gIo/j6U="
+          "Value": "sha256-JAwTcB0BQQAa+K0zE33nn81jrOn09Dn4pCce+NjnGcU="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.gz",
-      "AssetFile": "C:\\Users\\escar\\OneDrive\\Desktop\\Asp.NetCore MVC Practice\\Asp.NetCore MVC Practice\\obj\\Debug\\net9.0\\compressed\\adqg9cad59-mdavj9kyif.gz",
+      "AssetFile": "C:\\Users\\escar\\OneDrive\\Desktop\\Asp.NetCore MVC Practice\\Asp.NetCore MVC Practice\\obj\\Debug\\net9.0\\compressed\\adqg9cad59-ob4d9vnjw4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4320,7 +4320,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "35963"
+          "Value": "36506"
         },
         {
           "Name": "Content-Type",
@@ -4328,11 +4328,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RqleVCwZkRv118LAyyH6barHn30BSui8nR2AF5vTkMk=\""
+          "Value": "\"KTYLSV7pZDWRDLILfjox3vvAdfyPlEqSY5lcahYLJ/8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 06:26:39 GMT"
+          "Value": "Thu, 05 Jun 2025 02:10:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4350,7 +4350,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RqleVCwZkRv118LAyyH6barHn30BSui8nR2AF5vTkMk="
+          "Value": "sha256-KTYLSV7pZDWRDLILfjox3vvAdfyPlEqSY5lcahYLJ/8="
         }
       ]
     },
@@ -4649,167 +4649,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-pOh8WLH4j3VtIjwkYu8FxMwfZXN1u9bs0TmE+R/LeKU="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.mdavj9kyif.css",
-      "AssetFile": "C:\\Users\\escar\\OneDrive\\Desktop\\Asp.NetCore MVC Practice\\Asp.NetCore MVC Practice\\obj\\Debug\\net9.0\\compressed\\adqg9cad59-mdavj9kyif.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000027805583"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "35963"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RqleVCwZkRv118LAyyH6barHn30BSui8nR2AF5vTkMk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 06:26:39 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"tkKDDpzREQ3ujZfhsqw4utglS34XO81JaFj7gIo/j6U=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mdavj9kyif"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tkKDDpzREQ3ujZfhsqw4utglS34XO81JaFj7gIo/j6U="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.mdavj9kyif.css",
-      "AssetFile": "C:\\Users\\escar\\OneDrive\\Desktop\\Asp.NetCore MVC Practice\\Asp.NetCore MVC Practice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "309773"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tkKDDpzREQ3ujZfhsqw4utglS34XO81JaFj7gIo/j6U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 06:26:39 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mdavj9kyif"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tkKDDpzREQ3ujZfhsqw4utglS34XO81JaFj7gIo/j6U="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.mdavj9kyif.css.gz",
-      "AssetFile": "C:\\Users\\escar\\OneDrive\\Desktop\\Asp.NetCore MVC Practice\\Asp.NetCore MVC Practice\\obj\\Debug\\net9.0\\compressed\\adqg9cad59-mdavj9kyif.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "35963"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RqleVCwZkRv118LAyyH6barHn30BSui8nR2AF5vTkMk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 06:26:39 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mdavj9kyif"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RqleVCwZkRv118LAyyH6barHn30BSui8nR2AF5vTkMk="
         }
       ]
     },
@@ -5406,6 +5245,167 @@
         {
           "Name": "integrity",
           "Value": "sha256-Ez3ceWLr2D4WzWEtd0AgNaoRd/oY3XS1P5pFtgjHfAs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.ob4d9vnjw4.css",
+      "AssetFile": "C:\\Users\\escar\\OneDrive\\Desktop\\Asp.NetCore MVC Practice\\Asp.NetCore MVC Practice\\obj\\Debug\\net9.0\\compressed\\adqg9cad59-ob4d9vnjw4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000027392007"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36506"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KTYLSV7pZDWRDLILfjox3vvAdfyPlEqSY5lcahYLJ/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 02:10:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JAwTcB0BQQAa+K0zE33nn81jrOn09Dn4pCce+NjnGcU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ob4d9vnjw4"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JAwTcB0BQQAa+K0zE33nn81jrOn09Dn4pCce+NjnGcU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.ob4d9vnjw4.css",
+      "AssetFile": "C:\\Users\\escar\\OneDrive\\Desktop\\Asp.NetCore MVC Practice\\Asp.NetCore MVC Practice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JAwTcB0BQQAa+K0zE33nn81jrOn09Dn4pCce+NjnGcU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 02:10:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ob4d9vnjw4"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JAwTcB0BQQAa+K0zE33nn81jrOn09Dn4pCce+NjnGcU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.ob4d9vnjw4.css.gz",
+      "AssetFile": "C:\\Users\\escar\\OneDrive\\Desktop\\Asp.NetCore MVC Practice\\Asp.NetCore MVC Practice\\obj\\Debug\\net9.0\\compressed\\adqg9cad59-ob4d9vnjw4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KTYLSV7pZDWRDLILfjox3vvAdfyPlEqSY5lcahYLJ/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 02:10:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ob4d9vnjw4"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KTYLSV7pZDWRDLILfjox3vvAdfyPlEqSY5lcahYLJ/8="
         }
       ]
     },

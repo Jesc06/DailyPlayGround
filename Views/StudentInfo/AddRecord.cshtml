@@ -12,18 +12,23 @@
 	<div class="mb-3">
 		<label asp-for="Name">Name</label>
 		<input asp-for="Name" class="form-control"/>
+		<span asp-validation-for="Name" class="text-danger"></span>
 	</div>
 
 	<div class="mb-3">
 		<label asp-for="Name">Lastname</label>
 		<input asp-for="Lastname" class="form-control" />
+		<span asp-validation-for="Lastname" class="text-danger"></span>
 	</div>
 
 	<div class="mb-3">
 		<label asp-for="Name">Age</label>
 		<input asp-for="age" class="form-control" />
+		<span asp-validation-for="age" class="text-danger"></span>
 	</div>
 	
+
+
     <div class="row">
 		
 	<div class="col-6">
@@ -33,6 +38,11 @@
 	<div class="col-6">
 	<a asp-controller="StudentInfo" asp-action="index" class="btn btn-end form-control">Back</a>
 	</div>
+
+	</div>
+
+
+
 
 	</div>
 

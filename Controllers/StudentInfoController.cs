@@ -25,8 +25,17 @@ namespace Asp.NetCore_MVC_Practice.Controllers
         [HttpPost]
         public IActionResult AddRecord(Models.DbTable obj)
         {
-            _db.StudentInfo.Add(obj);
-            _db.SaveChanges();
+            if(obj.Name != obj.Name.ToUpper())
+            {
+                ModelState.AddModelError("Name", "Name must be upper case only");
+            }
+
+            if (ModelState.IsValid)
+            {
+                _db.StudentInfo.Add(obj);
+                _db.SaveChanges();
+                return RedirectToAction("index");
+            }
             return View();
         }
 
