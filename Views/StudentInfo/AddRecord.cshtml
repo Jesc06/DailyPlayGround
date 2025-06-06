@@ -3,6 +3,8 @@
 
 <form method="post">
 
+	<div asp-validation-summary="All" class="validate"></div>
+
 	<div class="border p-3 mt-4">
 		<div class="row pb-2">
 			<h2 class="text-primary">Student Info</h2>
@@ -10,19 +12,19 @@
 	</div>
 
 	<div class="mb-3">
-		<label asp-for="Name">Name</label>
-		<input asp-for="Name" class="form-control"/>
+		<label>Name</label>
+		<input asp-for="Name" class="form-control"/> 
 		<span asp-validation-for="Name" class="text-danger"></span>
 	</div>
 
 	<div class="mb-3">
-		<label asp-for="Name">Lastname</label>
+		<label>Lastname</label>
 		<input asp-for="Lastname" class="form-control" />
 		<span asp-validation-for="Lastname" class="text-danger"></span>
 	</div>
 
 	<div class="mb-3">
-		<label asp-for="Name">Age</label>
+		<label>Age</label>
 		<input asp-for="age" class="form-control" />
 		<span asp-validation-for="age" class="text-danger"></span>
 	</div>
@@ -47,3 +49,11 @@
 	</div>
 
 </form>
+
+
+@*for realtime validation gamit jquery*@
+@section Scripts {
+	@{
+		<partial name="_ValidationScriptsPartial" />
+	}
+}

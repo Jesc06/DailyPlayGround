@@ -82,19 +82,11 @@ C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practic
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\staticwebassets\msbuild.Asp.NetCore MVC Practice.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\staticwebassets\msbuild.Asp.NetCore MVC Practice.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\staticwebassets\msbuild.build.Asp.NetCore MVC Practice.props
-C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Asp.NetCore MVC Practice.props
-C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Asp.NetCore MVC Practice.props
-C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\Asp.NetCore MVC Practice.dll
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\refint\Asp.NetCore MVC Practice.dll
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\Asp.NetCore MVC Practice.pdb
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\Asp.NetCore MVC Practice.genruntimeconfig.cache
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\ref\Asp.NetCore MVC Practice.dll
-C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\compressed\7e0rdpc1ix-09xt3livso.gz
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\bin\Debug\net9.0\Azure.Core.dll
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\bin\Debug\net9.0\Azure.Identity.dll
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\bin\Debug\net9.0\Humanizer.dll
@@ -142,13 +134,11 @@ C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practic
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\bin\Debug\net9.0\System.Composition.TypedParts.dll
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\bin\Debug\net9.0\System.Drawing.Common.dll
-C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\bin\Debug\net9.0\System.Formats.Asn1.dll
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\bin\Debug\net9.0\System.Memory.Data.dll
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\bin\Debug\net9.0\System.Runtime.Caching.dll
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\bin\Debug\net9.0\System.Security.Permissions.dll
-C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\bin\Debug\net9.0\System.Text.Json.dll
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\bin\Debug\net9.0\System.Windows.Extensions.dll
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
@@ -231,3 +221,5 @@ C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practic
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\Asp.NetC.27E18AAB.Up2Date
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\Asp.NetCore MVC Practice.sourcelink.json
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\compressed\adqg9cad59-ob4d9vnjw4.gz
+C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\compressed\7e0rdpc1ix-8ds48i0lgl.gz
+C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\staticwebassets.build.json.cache
