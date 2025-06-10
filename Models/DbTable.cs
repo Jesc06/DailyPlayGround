@@ -26,7 +26,8 @@ namespace Asp.NetCore_MVC_Practice.Models
 
         [Range(1,100,ErrorMessage = "To old must be not required")]
         [DisplayName("Age")]
-        public int? age { get; set; } 
+        public int? age { get; set; }
 
+       
     }
 }

@@ -221,6 +221,6 @@ C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practic
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\Asp.NetC.27E18AAB.Up2Date
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\Asp.NetCore MVC Practice.sourcelink.json
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\compressed\adqg9cad59-ob4d9vnjw4.gz
-C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\compressed\7e0rdpc1ix-8ds48i0lgl.gz
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\escar\OneDrive\Desktop\Asp.NetCore MVC Practice\Asp.NetCore MVC Practice\obj\Debug\net9.0\compressed\7e0rdpc1ix-09xt3livso.gz

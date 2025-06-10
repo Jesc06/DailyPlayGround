@@ -4,6 +4,10 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Migrations.Internal;
 using System.Runtime.CompilerServices;
 using Asp.NetCore_MVC_Practice.Models;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Microsoft.Identity.Client;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 
 
 namespace Asp.NetCore_MVC_Practice.Controllers
@@ -24,59 +28,31 @@ namespace Asp.NetCore_MVC_Practice.Controllers
         }
 
 
-
         public IActionResult AddRecord()
         {
             return View();
         }
 
-
         //add record to the database
         [HttpPost]
-        public IActionResult AddRecord(Models.DbTable obj)
+        public IActionResult add(Models.DbTable obj)
         {
-
-            if(obj.Name == null)
-               obj.Name = string.Empty;
-            else
+            if (ModelState.IsValid)
             {
-                if (!obj.Name.Equals(obj.Name.ToUpper()))
-                {
-                    ModelState.AddModelError("Name", "Name must be capitalized");
-                } 
-                else if (int.TryParse(obj.Name, out int number))
-                {
-                    if (obj.Name == number.ToString())
-                    {
-                        ModelState.AddModelError("Name", "number must not allowed");
-                    }
-                }
-                else
-                {
-                    if (ModelState.IsValid)
-                    {
-                        _db.StudentInfo.Add(obj);
-                        _db.SaveChanges();
-                        return RedirectToAction("index");
-                    }
-                }    
+                _db.StudentInfo.Add(obj);
+                _db.SaveChanges();
+                return RedirectToAction("index");
             }
-
             return View();
         }
-
-
-
 
 
         //para ma view yung Edit form kapag pinindot sa table yung edit
         public IActionResult Edit(int id)
         {
-            var GetEdit =  _db.StudentInfo.Find(id);
-           
+            var GetEdit = _db.StudentInfo.Find(id);
             return View(GetEdit);
         }
-
 
 
         //Edit Record to the database
@@ -87,22 +63,51 @@ namespace Asp.NetCore_MVC_Practice.Controllers
             var edit = _db.StudentInfo.Find(studentData.Id);
 
 
-                if (edit != null)
-                {
-                    edit.Name = studentData.Name;
-                    edit.Lastname = studentData.Lastname;
-                    edit.age = studentData.age;
+            if (edit != null)
+            {
+                edit.Name = studentData.Name;
+                edit.Lastname = studentData.Lastname;
+                edit.age = studentData.age;
 
-                    _db.SaveChanges();
-                }
-
-
-
+                _db.SaveChanges();
+            }
             return RedirectToAction("index");
-
         }
 
-        
+
+
+        [HttpPost]
+        public IActionResult Delete(int id)
+        {
+            var record =  _db.StudentInfo.Find(id);
+            if(record == null)
+            {
+                return NotFound();
+            }
+            _db.StudentInfo.Remove(record);
+            _db.SaveChanges();
+
+            return RedirectToAction("index");
+        }
+
+
+        [HttpPost]
+        public async Task<IActionResult> Search(string Searchstring)
+        {
+            if (_db.StudentInfo == null)
+            {
+                return Problem("Entity set 'MvcMovieContext.Movie'  is null.");
+            }
+            var names = from m in _db.StudentInfo select m;
+
+            if (!String.IsNullOrEmpty(Searchstring))
+            {
+                names = names.Where(s => s.Name!.ToUpper().Contains(Searchstring.ToUpper()));
+            }
+
+            return View("index",await names.ToListAsync());
+
+        }
 
 
 

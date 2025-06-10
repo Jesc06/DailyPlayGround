@@ -4,6 +4,16 @@
 @model List<DbTable>
 
 
+
+
+
+<form asp-controller="StudentInfo" asp-action="Search" method="post">
+	<input type="text" name="Searchstring"/>
+	<input type="submit" value="Search" />
+</form>
+
+
+
 <div class="container">
 
 	<div class="row pt-4">
@@ -28,9 +38,16 @@
 				<td>@info.Lastname</td>
 				<td>@info.age</td>
 				<td><a asp-controller="StudentInfo" asp-route-id ="@info.Id" asp-action="Edit">Edit</a></td>
+
+			    <td>
+					<form asp-controller="StudentInfo" asp-action="Delete" asp-route-Id="@info.Id" method="post">
+					   <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+				    </form>
+				</td>
 			</tr>
 		}
 	</tbody>
 </table>
+
 
 </div>
